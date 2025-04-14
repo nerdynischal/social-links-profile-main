@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![](./assets/images/screenshot.png)
+![](./assets/images/hover.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nerdynischal/social-links-profile-main](https://github.com/nerdynischal/social-links-profile-main)
+- Live Site URL: [https://nerdynischal.github.io/social-links-profile-main/](https://nerdynischal.github.io/social-links-profile-main/)
 
 ## My process
 
