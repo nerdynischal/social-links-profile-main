@@ -15,24 +15,41 @@ body {
   flex-direction: column;
   background-color: hsl(0, 0%, 12%);
   border-radius: 12px;
-  padding: 24px;
+  padding: 42px;
 }
 
 .profile-card img {
-  width: 72px;
+  width: 80px;
   border-radius: 100px;
   align-self: center;
+  margin-bottom: 32px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.location {
+  font-weight: 700;
+  color: hsl(75, 94%, 57%);
+  margin-top: 12px;
+  margin-bottom: 20px;
 }
 
 .socials-container {
+  margin-top: 8px;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  min-width: 320px;
+  gap: 16px;
 }
 
 .socials {
   text-align: center;
+  font-weight: 600;
   background-color: hsl(0, 0%, 20%);
-  padding: 12px;
+  padding: 16px;
   border-radius: 8px;
 }
